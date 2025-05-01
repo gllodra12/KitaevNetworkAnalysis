@@ -55,5 +55,3 @@ G. Llodrà, R. Zambrini, and G. L. Giorgi, “Unveiling hidden features of the K
 
 ## License
 This project is licensed under the MIT License.
-
-
