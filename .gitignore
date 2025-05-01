@@ -1,0 +1,4 @@
+.vscode
+tests/*/__pycache__
+kitaev_network_analysis/__pycache__
+kitaev_network_analysis/*/__pycache__
