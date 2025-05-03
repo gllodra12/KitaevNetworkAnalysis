@@ -1,12 +1,14 @@
 # Kitaev Network Analysis
 
-This repository contains Python code to perform network analysis on the Kitaev chain model, as presented in _Unveiling hidden features of the Kitaev model through a complex-network analysis_ (TODO: add link)
+[![DOI](https://zenodo.org/badge/976260136.svg)](https://doi.org/10.5281/zenodo.15333937)
+
+This repository contains Python code to perform network analysis on the Kitaev chain model, as presented in [_Unveiling hidden features of the Kitaev model through a complex-network analysis_](https://arxiv.org/pdf/2505.00444).
 
 ## Features
 - Compute reduced density matrices for pairs of fermions in a finite Kitaev chain.
 - Construct weighted adjacency networks using quantum mutual information and concurrence measures.
 - Calculate network metrics such as node density and clustering coefficient.
-- Detect the topological phase transition (bulk gap closing at $|μ| = 2w$) and identify the singular fully-connected network regime.
+- Detect the topological phase transition (bulk gap closing at $|μ| = 2w$) and identify the singular fully-connected network point $μ=2\sqrt{w^2-\Delta^2}$.
 
 
 ## Installation
